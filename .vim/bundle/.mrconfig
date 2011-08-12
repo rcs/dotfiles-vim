@@ -1,8 +1,0 @@
-[vim-colors-solarized]
-checkout = git clone git://github.com/altercation/vim-colors-solarized.git
-
-[vim-endwise]
-checkout = git clone git://github.com/tpope/vim-endwise.git
-
-[vim-rails]
-checkout = git clone git://github.com/tpope/vim-rails.git
